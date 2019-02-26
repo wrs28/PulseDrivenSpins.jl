@@ -2,7 +2,6 @@ module PulseDrivenSpins
 
 export Spins
 export Ix, Iy, Iz
-export dipolar_strength
 export dipolar_xx, dipolar_yy, dipolar_zz
 export dipolar_xy, dipolar_yz, dipolar_zx
 
